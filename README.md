@@ -4,8 +4,8 @@
 
 对于RoBERTa模型，根据data_process_A&B_roberta.py将原始SemEval数据处理，参照[fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.custom_classification.md)中使用RoBERTa在Custom Data上的操作处理成脚本所需的数据格式输入，具体训练操作可见[RoBERTa](https://github.com/facebookresearch/fairseq/tree/main/examples/roberta)
 
-本次实验的得到的所有权重在百度网盘中可下载(待上传)。
-[RoBERTa](https://pan.baidu.com/s/1qs37HIuPD2s4oJAvnfq93w?pwd=3bz9)和[BERT](https://pan.baidu.com/s/1AEL8agh6_DapkoPIwOjWiQ?pwd=p7f1)
+本次实验的得到的所有权重在百度网盘中可下载：
+[RoBERTa](https://pan.baidu.com/s/1qs37HIuPD2s4oJAvnfq93w?pwd=3bz9)、[BERT](https://pan.baidu.com/s/1AEL8agh6_DapkoPIwOjWiQ?pwd=p7f1)
 
 
 ## Reference
